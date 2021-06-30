@@ -1,0 +1,432 @@
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="photoshop">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-11.jpg" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-11/1.jpg">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Personal Portofolio</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2020</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>photoshop</span></li>
+                                            <li>Web - <span><a href=#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                <!-- portofolio item end--->               
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="photoshop">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-12.jpg" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-12/1.jpg">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Personal Portofolio</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2021 (Planning)</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>Photoshop/span></li>
+                                            <li>Web - <span><a href="#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                <!-- portofolio item end---> 
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="photoshop">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-13.png" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-13/1.png">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Art</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                            <div class="row">
+                            <div class="description">
+                            <h3>Project Brief:</h3>
+                            <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                            </div>
+                            <div class="info">
+                                <h3>Project info</h3>
+                                    <ul>
+                                        <li>Date - <span>2021 (Planning)</span></li>
+                                        <li>Client - <span>Myself</span></li>
+                                        <li>Tools - <span>Photoshop</span></li>
+                                        <li>Web - <span><a href="#">-</a></span></li>
+                                    </ul>
+                            </div>                                
+                            </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                            </div>                    
+                    </div>
+                <!-- portofolio item end--->
+    
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="mobile-app">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-14.png" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-14/1.png">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Art</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2021 (Planning)</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>Photoshop</span></li>
+                                            <li>Web - <span><a href="#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                <!-- portofolio item end--->
+                
+                          
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="mobile-app">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-15.png" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-15/1.png, 
+                                img/portfolio/large/project-15/2.png">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Futsal apps mobile</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2021 (Planning)</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>Figma</span></li>
+                                            <li>Play store - <span><a href="#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                    <!-- portofolio item end--->
+                    <!-- portofolio item --->
+                        <div class="portofolio-item" data-category="Web-application">
+                            <div class="portofolio-item-inner outer-shadow">
+                                <div class="portofolio-item-img">
+                                    <img src="img/portfolio/thumb/project-16.png" alt="portofolio" data-screenshots="
+                                    img/portfolio/large/project-16/1.png">
+                                    <!-- view project btn -->
+                                    <span class="view-project">view project</span>
+                                </div>
+                                <p class="portofolio-item-title">Web Baca Komik</p>
+                                <!-- portofolio item details -->
+                                <div class="portofolio-item-details">
+                                    <div class="row">
+                                        <div class="description">
+                                            <h3>Project Brief:</h3>
+                                            <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                        </div>
+                                        <div class="info">
+                                            <h3>Project info</h3>
+                                            <ul>
+                                                <li>Date - <span>2021 (Planning)</span></li>
+                                                <li>Client - <span>Myself</span></li>
+                                                <li>Tools - <span>Photoshop</span></li>
+                                                <li>Web - <span><a href="#">-</a></span></li>
+                                            </ul>
+                                        </div>                                
+                                    </div>
+                                </div>
+                                <!-- portofolio item details end-->
+                            </div>                    
+                        </div>
+                    <!-- portofolio item end--->
+                    
+                    <!-- portofolio item --->
+                        <div class="portofolio-item" data-category="photoshop">
+                            <div class="portofolio-item-inner outer-shadow">
+                                <div class="portofolio-item-img">
+                                    <img src="img/portfolio/thumb/project-17.jpg" alt="portofolio" data-screenshots="
+                                    img/portfolio/large/project-17/1.jpg">
+                                    <!-- view project btn -->
+                                    <span class="view-project">view project</span>
+                                </div>
+                                <p class="portofolio-item-title">Art</p>
+                                <!-- portofolio item details -->
+                                <div class="portofolio-item-details">
+                                    <div class="row">
+                                        <div class="description">
+                                            <h3>Project Brief:</h3>
+                                            <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                        </div>
+                                        <div class="info">
+                                            <h3>Project info</h3>
+                                            <ul>
+                                                <li>Date - <span>2021 (Planning)</span></li>
+                                                <li>Client - <span>Myself</span></li>
+                                                <li>Tools - <span>Photoshop</span></li>
+                                                <li>Web - <span><a href="#">-</a></span></li>
+                                            </ul>
+                                        </div>                                
+                                    </div>
+                                </div>
+                                <!-- portofolio item details end-->
+                            </div>                    
+                        </div>
+                    <!-- portofolio item end--->
+                    
+                    <!-- portofolio item --->
+                        <div class="portofolio-item" data-category="photoshop">
+                            <div class="portofolio-item-inner outer-shadow">
+                                <div class="portofolio-item-img">
+                                    <img src="img/portfolio/thumb/project-18.png" alt="portofolio" data-screenshots="
+                                    img/portfolio/large/project-18/1.png">
+                                    <!-- view project btn -->
+                                    <span class="view-project">view project</span>
+                                </div>
+                                <p class="portofolio-item-title">Art</p>
+                                <!-- portofolio item details -->
+                                <div class="portofolio-item-details">
+                                    <div class="row">
+                                        <div class="description">
+                                            <h3>Project Brief:</h3>
+                                            <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                        </div>
+                                        <div class="info">
+                                            <h3>Project info</h3>
+                                            <ul>
+                                                <li>Date - <span>2021 (Planning)</span></li>
+                                                <li>Client - <span>Myself</span></li>
+                                                <li>Tools - <span>Photoshop</span></li>
+                                                <li>Web - <span><a href="#">-</a></span></li>
+                                            </ul>
+                                        </div>                                
+                                    </div>
+                                </div>
+                                <!-- portofolio item details end-->
+                            </div>                    
+                        </div>
+                    <!-- portofolio item end--->
+                    
+                    <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="photoshop">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-19.png" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-19/1.png">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Art</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2021 (Planning)</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>Photoshop</span></li>
+                                            <li>Web - <span><a href="#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                    <!-- portofolio item end--->
+                
+                <!-- portofolio item --->
+                    <div class="portofolio-item" data-category="photoshop">
+                        <div class="portofolio-item-inner outer-shadow">
+                            <div class="portofolio-item-img">
+                                <img src="img/portfolio/thumb/project-20.png" alt="portofolio" data-screenshots="
+                                img/portfolio/large/project-20/1.png">
+                                <!-- view project btn -->
+                                <span class="view-project">view project</span>
+                            </div>
+                            <p class="portofolio-item-title">Art</p>
+                            <!-- portofolio item details -->
+                            <div class="portofolio-item-details">
+                                <div class="row">
+                                    <div class="description">
+                                        <h3>Project Brief:</h3>
+                                        <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                    </div>
+                                    <div class="info">
+                                        <h3>Project info</h3>
+                                        <ul>
+                                            <li>Date - <span>2021 (Planning)</span></li>
+                                            <li>Client - <span>Myself</span></li>
+                                            <li>Tools - <span>Photoshop</span></li>
+                                            <li>Web - <span><a href="#">-</a></span></li>
+                                        </ul>
+                                    </div>                                
+                                </div>
+                            </div>
+                            <!-- portofolio item details end-->
+                        </div>                    
+                    </div>
+                <!-- portofolio item end--->
+           
+            <!-- portofolio item --->
+            <div class="portofolio-item" data-category="photoshop">
+                <div class="portofolio-item-inner outer-shadow">
+                    <div class="portofolio-item-img">
+                        <img src="img/portfolio/thumb/project-21.png" alt="portofolio" data-screenshots="
+                        img/portfolio/large/project-21/1.png">
+                        <!-- view project btn -->
+                        <span class="view-project">view project</span>
+                    </div>
+                    <p class="portofolio-item-title">Art</p>
+                    <!-- portofolio item details -->
+                    <div class="portofolio-item-details">
+                        <div class="row">
+                            <div class="description">
+                                <h3>Project Brief:</h3>
+                                <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                            </div>
+                            <div class="info">
+                                <h3>Project info</h3>
+                                <ul>
+                                    <li>Date - <span>2021 (Planning)</span></li>
+                                    <li>Client - <span>Myself</span></li>
+                                    <li>Tools - <span>Photoshop</span></li>
+                                    <li>Web - <span><a href="#">-</a></span></li>
+                                </ul>
+                            </div>                                
+                        </div>
+                    </div>
+                    <!-- portofolio item details end-->
+                </div>                    
+            </div>
+            <!-- portofolio item end--->
+        </div>
+        <!-- portofolio item end--->
+        <!-- portofolio item --->
+        <div class="portofolio-item" data-category="photoshop">
+            <div class="portofolio-item-inner outer-shadow">
+                <div class="portofolio-item-img">
+                    <img src="img/portfolio/thumb/project-22.png" alt="portofolio" data-screenshots="
+                    img/portfolio/large/project-22/1.png">
+                    <!-- view project btn -->
+                    <span class="view-project">view project</span>
+                </div>
+                <p class="portofolio-item-title">Art</p>
+                <!-- portofolio item details -->
+                <div class="portofolio-item-details">
+                    <div class="row">
+                        <div class="description">
+                            <h3>Project Brief:</h3>
+                            <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                        </div>
+                        <div class="info">
+                            <h3>Project info</h3>
+                            <ul>
+                                <li>Date - <span>2021 (Planning)</span></li>
+                                <li>Client - <span>Myself</span></li>
+                                <li>Tools - <span>Photoshop</span></li>
+                                <li>Web - <span><a href="#">-</a></span></li>
+                            </ul>
+                        </div>                                
+                    </div>
+                </div>
+                <!-- portofolio item details end-->
+            </div>                    
+        </div>
+        <!-- portofolio item end--->
+    </div>
+    <!-- portofolio item end--->
+
+                 <!-- portofolio item --->
+                <div class="portofolio-item" data-category="photoshop">
+                    <div class="portofolio-item-inner outer-shadow">
+                        <div class="portofolio-item-img">
+                            <img src="img/portfolio/thumb/project-23.png" alt="portofolio" data-screenshots="
+                            img/portfolio/large/project-23/1.png">
+                            <!-- view project btn -->
+                            <span class="view-project">view project</span>
+                        </div>
+                        <p class="portofolio-item-title">Art</p>
+                        <!-- portofolio item details -->
+                        <div class="portofolio-item-details">
+                            <div class="row">
+                                <div class="description">
+                                    <h3>Project Brief:</h3>
+                                    <p><!--Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae et eum laboriosam maxime in, impedit quasi eius dignissimos quidem inventore. Repellendus voluptatum cumque aperiam deserunt nemo mollitia? Nostrum, beatae repellendus?--></p>
+                                </div>
+                                <div class="info">
+                                    <h3>Project info</h3>
+                                    <ul>
+                                        <li>Date - <span>2021 (Planning)</span></li>
+                                        <li>Client - <span>Myself</span></li>
+                                        <li>Tools - <span>Photoshop</span></li>
+                                        <li>Web - <span><a href="#">-</a></span></li>
+                                    </ul>
+                                </div>                                
+                            </div>
+                        </div>
+                        <!-- portofolio item details end-->
+                    </div>                    
+                </div>
+                <!-- portofolio item end--->
+            </div>
+            <!-- portofolio item end--->
