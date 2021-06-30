@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
     <title>Personal Portfolio Website</title>
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="img/logo icon.png"
-    <!-- font awesome -->
+    <link rel="icon" href="img/logo icon.png"      
+    <!-- font awesome -->  
     <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
     <!-- main css -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -20,7 +20,7 @@
     <link rel="stylesheet" type="text/css" class="alternate-style" title="color-3" href="css/skins/color-3.css" disabled>
     <link rel="stylesheet" type="text/css" class="alternate-style" title="color-4" href="css/skins/color-4.css" >
     <link rel="stylesheet" type="text/css" class="alternate-style" title="color-5" href="css/skins/color-5.css" disabled>
-    <link rel="stylesheet" type="text/css" href="css/style-switcher.css">
+    <link rel="stylesheet" type="text/css" href="css/style-switcher.css">    
 </head>
 
 <body class="dark">
@@ -1187,28 +1187,28 @@
             </div>
             <div class="row">
                 <div class="contact-form">
-                    <form>
+                    <form name="Portofolio-contact-form">
                         <div class="row">
                             <div class="w-50">
                                 <div class="input-group outer-shadow hover-in-shadow">
-                                    <input type="text" placeholder="Name" class="input-control">
+                                    <input type="text" placeholder="Name" class="input-control" name="nama">
                                 </div>
                                 <div class="input-group outer-shadow hover-in-shadow">
-                                    <input type="text" placeholder="Email" class="input-control">
+                                    <input type="text" placeholder="Email" class="input-control"  name="email">
                                 </div>
                                 <div class="input-group outer-shadow hover-in-shadow">
-                                    <input type="text" placeholder="Subject" class="input-control">
+                                    <input type="text" placeholder="Subject" class="input-control"  name="subject">
                                 </div>
                             </div>
                             <div class="w-50">
                                 <div class="input-group outer-shadow hover-in-shadow">
-                                    <textarea class="input-control" placeholder="Message"></textarea>
+                                    <textarea class="input-control" placeholder="Message"  name="pesan"></textarea>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="submit-btn">
-                                <button type="submit" class="btn-1 outer-shadow hover-in-shadow">Send Message</button>
+                                <button type="submit" class="btn-1 outer-shadow hover-in-shadow" id="submit-btn">Send Message</button>
                             </div>
                         </div>
                     </form>
@@ -1243,6 +1243,38 @@
     <script src="js/main.js"></script>
     <!-- style switcher js -->
     <script src="js/style-switcher.js"></script>
+    <script src="js/dist/sweetalert2.all.min.js"></script>
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbxc5fBoCNWsnCXNIm4lHTQ1l0lFAGdAPuauGRwiF8AK4sf-Ddn_f8zCQdGe8bY48MSbZA/exec'
+        const form = document.forms['Portofolio-contact-form']
+      
+        form.addEventListener('submit', e => {
+          e.preventDefault()
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => {
+                Swal.fire({
+                    position: 'center',
+                    icon: 'success',
+                    title: 'Your work has been saved',
+                    text: 'Pesan anda sudah kami terima',
+                    showConfirmButton: true,
+                    timer: 3500
+            })
+            console.log("success");
+        })
+            .catch(error => {
+                Swal.fire({
+                    position: 'center',
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Something went wrong!',
+                    showConfirmButton: true,
+                    timer: 3500
+                })
+                console.log("error");
+            })
+            form.reset();
+        })
+    </script> 
 </body>
-
 </html>
