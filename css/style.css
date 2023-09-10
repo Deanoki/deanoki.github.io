@@ -363,12 +363,10 @@ Header
   display: inline-block;
   text-align: center;
   line-height: 40px;
-  height: 40px;
   width: 100px;
   font-size: 20px;
   color: var(--skin-color);
   font-weight: 600;
-  /* text-transform: uppercase; */
 }
 
 .header .hamburger-btn {
